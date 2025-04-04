@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Santiago Munevar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio
+  bio              : "Bio"
   location         : "Richmond, VA"
-  email            :
+  email            : "santimug@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
