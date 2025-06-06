@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Santiago Munevar"
   avatar           : "/assets/images/prof_pic.jpg"
-  bio              : "Bio"
+  bio              : "Geospatial Analyst with expertise in GIS, remote sensing, statistics, and programming, dedicated to producing high-quality, data-driven visualizations"
   location         : "Richmond, VA"
   email            : "santimug@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:santimug@gmail.com"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:santimug@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
